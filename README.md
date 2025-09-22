@@ -1,4 +1,10 @@
-APPROACH:
+**PROJECT:** AGRI DATA EXPLORER
+
+**REQUIREMENTS:**
+
+Please refer the document named “Indian_agri-prjrqrmnt” attached above.
+
+**APPROACH:**
 
 Data Collection and Cleaning: Gathered agricultural data from various sources and used a Python script for cleaning, including handling missing values and standardizing units.
 
